@@ -1,6 +1,6 @@
 ```markdown
 # Laporan Praktikum 1  
-**Pemrograman Mobile - Flutter Layout**  
+*Pemrograman Mobile - Flutter Layout*
 
 ## Identitas  
 - **Nama** : Randa Heru Kusuma  
