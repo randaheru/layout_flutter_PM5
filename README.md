@@ -12,5 +12,5 @@
 ## Hasil  
 Berikut adalah tampilan hasil praktikum 1:  
 
-![Hasil Praktikum 1](images/Visual_praktikum1.png)  
+![Hasil Praktikum 1](images\Visual_praktikum1.png)  
 
